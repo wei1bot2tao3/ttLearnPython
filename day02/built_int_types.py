@@ -52,3 +52,4 @@ kas = [1,'221','211','331ws']
 print(my_list[1] in kas  )
 
 # 集合 与set 对象
+
